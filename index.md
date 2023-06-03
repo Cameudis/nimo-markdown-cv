@@ -37,49 +37,44 @@ Shanghai, China
 - GPA: 3.52/4.0
 - Ranking: 3/33
 
-#### Course Grades (All Professional Courses)
+### Course Grades (All Professional Courses)
 
-```
-大一
-```
+**大一**
 - 线性代数：B+
 - 程序设计：A-
 - 面向对象程序设计：A-
 - 电子系统导论：P
 
-```
-大二
-```
+**大二**
 - 数字逻辑与部件设计：A
 - 数据结构：A
 - 集合与图论：A
 - 计算机系统基础：A
 - 信息安全导论：B+（缓考）
 
----
 ## Projects & Practice
 
-### ICS Project Assignment (NJU 2022)
+### **ICS Project Assignment** (NJU 2022)
 
-### pwn.college (ASU)
+### **pwn.college** (ASU)
 
-### Y86-64 CPU Simulator (FDU ICS 2022Fall)
+### **Y86-64 CPU Simulator** (FDU ICS 2022Fall)
 
-### 鲨鱼记账 Android VIP 破解
+### **鲨鱼记账 Android VIP 破解**
 
-### Weixin Android Chat Bot
+### **Weixin Android Chat Bot**
 
-### JEB control flow unflatten plugin
+### **JEB control flow unflatten plugin**
 
-### JEB expression simplify plugin
+### **JEB expression simplify plugin**
 
-### pwnable.tw
+### **pwnable.tw**
 
 ---
 ## Honors & Awards
 
-2021~2022学年 本科优秀学生奖学金二等奖<br>
-第四届“长城杯”信息安全铁人三项赛 团体二等奖<br>
+- 2021~2022学年 本科优秀学生奖学金二等奖<br>
+- 第四届“长城杯”信息安全铁人三项赛 团体二等奖<br>
 
 ---
 ## Teaching

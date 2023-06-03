@@ -58,19 +58,19 @@ Shanghai, China
 
 Independently implement a computer system simulator from scratch, and run the classic Chinese RPG game known as PAL on the simulator.
 
-![NJU shell](pa_shell.jpg)
+![NJU shell](assets/pa_shell.jpg)
 
-![PAL](pa_pal.jpg)
+![PAL](assets/pa_pal.jpg)
 
 ### **pwn.college** (ASU)
 
-![ranking](pwncollege.jpg)
+![ranking](assets/pwncollege.jpg)
 
 ### **Y86-64 CPU Simulator** (FDU ICS 2022Fall)
 
-![Y86-64 Simulator PIPELINE Mode](y86sim.jpg)
+![Y86-64 Simulator PIPELINE Mode](assets/y86sim.jpg)
 
-![Y86-64 Structure](y86sim_struct.jpg)
+![Y86-64 Structure](assets/y86sim_struct.jpg)
 
 ### **鲨鱼记账 Android VIP 破解**
 

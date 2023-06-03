@@ -37,7 +37,7 @@ Shanghai, China
 - GPA: 3.52/4.0
 - Ranking: 3/33
 
-### Course Grades (All Professional Courses)
+<!-- ### **Course Grades** (All Professional Courses)
 
 **大一**
 - 线性代数：B+
@@ -46,19 +46,31 @@ Shanghai, China
 - 电子系统导论：P
 
 **大二**
+- 信息安全导论：B+（缓考）
 - 数字逻辑与部件设计：A
 - 数据结构：A
 - 集合与图论：A
-- 计算机系统基础：A
-- 信息安全导论：B+（缓考）
+- 计算机系统基础：A -->
 
 ## Projects & Practice
 
 ### **ICS Project Assignment** (NJU 2022)
 
+Independently implement a computer system simulator from scratch, and run the classic Chinese RPG game known as PAL on the simulator.
+
+![NJU shell](pa_shell.jpg)
+
+![PAL](pa_pal.jpg)
+
 ### **pwn.college** (ASU)
 
+![ranking](pwncollege.jpg)
+
 ### **Y86-64 CPU Simulator** (FDU ICS 2022Fall)
+
+![Y86-64 Simulator PIPELINE Mode](y86sim.jpg)
+
+![Y86-64 Structure](y86sim_struct.jpg)
 
 ### **鲨鱼记账 Android VIP 破解**
 
